@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li> Weed </li>
+  <li> Sex </li>
+  <li> More Weed! </li>
+  </ul>
